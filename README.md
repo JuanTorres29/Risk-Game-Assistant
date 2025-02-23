@@ -15,7 +15,7 @@ Este proyecto consiste en la implementación de un sistema basado en consola par
 
 ## Estructura del Proyecto
 ```
-📂 Risk-Game
+📂 Risk-Game-Assistant
 ├── 📁 src                # Código fuente
 ├── 📁 data               # Archivos de juegos guardados
 ├── 📁 docs               # Documentación del proyecto
