@@ -57,7 +57,3 @@ g++ -o risk-game src/*.cpp
 
 ## Contribución
 Las contribuciones son bienvenidas. Por favor, abre un *issue* o un *pull request* para discutir cualquier cambio importante.
-
-## Licencia
-Este proyecto se desarrolla con fines educativos bajo la licencia MIT.
-
